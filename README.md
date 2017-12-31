@@ -10,7 +10,7 @@ Completed
 
 ## Screenshts
 
-![instructions](https://github.com/talkor/Wings-Over-Seas/blob/master/Instructions.bmp?raw=true)
+!(https://github.com/talkor/Wings-Over-Seas/blob/master/Instructions.bmp?raw=true)
 
 
 ## Instructions
