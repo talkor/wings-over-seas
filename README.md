@@ -1,4 +1,4 @@
-# Wings-Over-Seas
+# Wings Over Seas
 
 ![logo](https://github.com/talkor/Wings-Over-Seas/blob/master/logo.jpg?raw=true)
 
