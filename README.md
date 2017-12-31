@@ -13,9 +13,9 @@ Completed
 ![instructions](https://github.com/talkor/Wings-Over-Seas/blob/master/Instructions.bmp?raw=true)
 
 
-## Installation and Setup Instructions
+## Instructions
 
-- Windows:
+Windows:
 
 Run `WingsOverSeas.exe`  
 
